@@ -21,22 +21,13 @@
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td valign="top" width="60">
+<div align="left">
 
-🎓
-
-</td>
-<td valign="top">
-
-<b>Bachelor of Science in Information Technology</b><br>
-New Era University<br>
+### Bachelor of Science in Information Technology
+🏫 **New Era University**  
 📅 2021 - Present
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 

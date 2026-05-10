@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Paolo Jhay Landicho 👋
 
-<!--
-**pjplandich0/pjplandich0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am **Paolo Jhay Landicho**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**Bachelor of Science in Information Technology**  
+New Era University  
+2021 - Present
+
+---
+
+## 📜 Certifications
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/a740b66b4b8d403ea2552c929fe76833#)
+
+---
+
+## 🛠️ Skill Sets
+
+### 💻 Programming
+- Java
+- JavaScript
+
+### 🗄️ Databases
+- IBM DB2 Cloud
+
+### 🧰 Tools
+- Lucidchart
+- Jaspersoft Studio
+- Eclipse
+- HTML
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [Paolo Landicho](https://www.linkedin.com/in/paolo-landicho-0678a0bb/)
+- Email: pj_landicho@yahoo.com
+
+---
+
+## 🚀 GitHub Stats
+![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)

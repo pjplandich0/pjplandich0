@@ -23,15 +23,15 @@
 
 <table>
 <tr>
-<td width="80">
+<td valign="top" width="60">
 
 🎓
 
 </td>
-<td>
+<td valign="top">
 
-### Bachelor of Science in Information Technology  
-**New Era University**  
+<b>Bachelor of Science in Information Technology</b><br>
+New Era University<br>
 📅 2021 - Present
 
 </td>

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Paolo Jhay Landicho
+# 👋 Hello, I'm Paolo Landicho
 
 ### 💻 BS Information Technology Student | Aspiring Developer | Database Enthusiast
 
